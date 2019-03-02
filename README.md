@@ -8,7 +8,11 @@ Good Luck.
 
 TODO:
 
-- [ ] USENIX Security 2018 (* working)
+- [ ] USENIX Security 2018
+
+      - [x] Track Fuzzing and Exploit Generation
+
+      - [ ] **Track Vulnerability Mitigations (working)**
 
 - [ ] USENIX Security 2019
 
