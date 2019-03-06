@@ -8,17 +8,25 @@ Good Luck.
 
 TODO:
 
+- [ ] **COURSE: Intrusion Tolerance Technology. **
+
 - [ ] USENIX Security 2018
 
       - [x] Track Fuzzing and Exploit Generation
 
-      - [ ] **Track Vulnerability Mitigations (working)**
+      - [ ] Track Vulnerability Mitigations
 
 - [ ] USENIX Security 2019
+
+      - [ ] Session #8: Program Analysis
 
 - [ ] IEEE Symposium on Security & Privacy 2018
 
 - [ ] IEEE Symposium on Security & Privacy 2019
+
+- [ ] NDSS 2018
+
+- [ ] NDSS 2019
 
 INTERESTING PAPERS:
 
