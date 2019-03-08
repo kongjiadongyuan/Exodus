@@ -24,9 +24,7 @@ TODO:
 
 - [ ] IEEE Symposium on Security & Privacy 2019
 
-- [ ] NDSS 2018
 
-- [ ] NDSS 2019
 
 INTERESTING PAPERS:
 
