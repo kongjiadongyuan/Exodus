@@ -24,11 +24,13 @@ TODO:
 
 - [ ] IEEE Symposium on Security & Privacy 2019
 
-
-
 INTERESTING PAPERS:
 
+
+
 - [ ] AVGERINOS, T., CHA, S. K., HAO, B. L. T., AND BRUMLEY, D. AEG: automatic exploit generation. In Proceedings of the Network and Distributed System Security Symposium, NDSS 2011, San Diego, California, USA, 2011 (2011).
+
+- [ ] vetting single sign-on sdk implementations via symbolic reasoning.
 
 - [ ] BRUMLEY, D., POOSANKAM, P., SONG, D., AND ZHENG, J. Automatic patch-based exploit generation is possible: Techniques and implications. In Proceedings of the 2008 IEEE Symposium on Security and Privacy (Washington, DC, USA, 2008), SP ’08, IEEE Computer Society, pp. 143–157.
 
